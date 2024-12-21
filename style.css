@@ -75,6 +75,6 @@ button:active{
 
 @media screen and (max-width: 600px){
     button, .specialOperator-btn, .operator-btn, #calculator, body{
-        width: 50%;
+        width: 100%;
     }
 }
